@@ -20,7 +20,7 @@ A Flask-based computer vision web application for detecting helmet usage in imag
 
 - Python
 
-- YOLOv8 (Ultralytics)
+- YOLOv8n (Ultralytics)
 
 - OpenCV
 
@@ -65,11 +65,11 @@ Note on Contribution
 
 This repository contains my contribution to the helmet detection module of a collaborative project. Other components such as OCR and analytics were handled by different team members.
 
-Future Enhancements
+Future Enhancements -
 
-Video-based helmet detection
+1. Video-based helmet detection
 
-Integration with number plate recognition
+2. Integration with number plate recognition
 
-Deployment on cloud platforms
+3. Deployment on cloud platforms
 
