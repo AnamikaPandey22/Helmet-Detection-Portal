@@ -1,6 +1,6 @@
 # Helmet Detection Portal using YOLOv8
 
-A Flask-based computer vision web application for detecting helmet usage in images using a YOLOv8 model. This project focuses on traffic safety monitoring and demonstrates real-time inference through a simple web interface.
+A Flask-based computer vision web application for detecting helmet usage in images using a YOLOv8n model. This project focuses on traffic safety monitoring and demonstrates real-time inference through a simple web interface.
 
 ---
 
