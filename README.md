@@ -4,7 +4,7 @@ A Flask-based computer vision web application for detecting helmet usage in imag
 
 ---
 
-## Features
+## Features - 
 
 - Image upload through a web portal
 
