@@ -16,7 +16,7 @@ A Flask-based computer vision web application for detecting helmet usage in imag
 
 ---
 
-## Tech Stack
+## Tech Stack -
 
 - Python
 
