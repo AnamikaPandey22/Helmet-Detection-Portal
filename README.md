@@ -31,6 +31,7 @@ A Flask-based computer vision web application for detecting helmet usage in imag
 ## Project Structure -
 
 Helmet-Detection-Portal/
+
 ├── app.py
 ├── models/
 │ └── best.pt
