@@ -63,7 +63,7 @@ Open browser and go to:
 
 http://127.0.0.1:5000
 
-Note on Contribution
+Note on Contribution- 
 
 This repository contains my contribution to the helmet detection module of a collaborative project. Other components such as OCR and analytics were handled by different team members.
 
