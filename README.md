@@ -51,7 +51,7 @@ Helmet-Detection-Portal/
 ```bash
 git clone https://github.com/your-username/Helmet-Detection-Portal.git
 ```
-Install dependencies:
+2. Install dependencies:
 
 pip install -r requirements.txt
 
