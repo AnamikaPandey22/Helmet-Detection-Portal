@@ -55,7 +55,7 @@ git clone https://github.com/your-username/Helmet-Detection-Portal.git
 
 pip install -r requirements.txt
 
-Run the application:
+3. Run the application:
 
 python app.py
 
