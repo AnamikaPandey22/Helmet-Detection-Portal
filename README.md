@@ -4,7 +4,7 @@ A Flask-based computer vision web application for detecting helmet usage in imag
 
 ---
 
-## Features - 
+## Features :- 
 
 - Image upload through a web portal
 
@@ -16,7 +16,7 @@ A Flask-based computer vision web application for detecting helmet usage in imag
 
 ---
 
-## Tech Stack -
+## Tech Stack :-
 
 - Python
 
@@ -28,7 +28,7 @@ A Flask-based computer vision web application for detecting helmet usage in imag
 
 ---
 
-## Project Structure -
+## Project Structure :-
 
 Helmet-Detection-Portal/
 
@@ -45,7 +45,7 @@ Helmet-Detection-Portal/
 
 ---
 
-## How to Run -
+## How to Run :-
 
 1. Clone the repository:
 ```bash
